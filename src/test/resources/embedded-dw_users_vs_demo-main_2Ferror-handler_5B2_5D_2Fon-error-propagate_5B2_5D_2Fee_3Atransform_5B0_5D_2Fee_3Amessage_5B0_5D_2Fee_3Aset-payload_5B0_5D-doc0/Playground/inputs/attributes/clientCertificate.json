@@ -1,0 +1,72 @@
+{
+  "basicConstraints": 77,
+  "criticalExtensionOIDs": [
+    "elit",
+    "dui"
+  ],
+  "extendedKeyUsage": [
+    "Aliquam",
+    "eget"
+  ],
+  "extensions": [
+    {
+      "criticality": true,
+      "oid": "aliquam"
+    }
+  ],
+  "issuerAlternativeNames": [
+    {
+      "name": "Amina",
+      "type": 11
+    }
+  ],
+  "issuerDN": {
+    "commonName": "Aliquam",
+    "name": "Alissa"
+  },
+  "issuerUniqueID": [
+    false,
+    true
+  ],
+  "issuerX500Principal": {
+    "name": "Andera"
+  },
+  "keyUsage": [
+    true,
+    false,
+    false
+  ],
+  "name": "Alex",
+  "nonCriticalExtensionOIDs": [
+    "vitae",
+    "venenatis",
+    "aliquam"
+  ],
+  "publicKey": {
+    "algorithm": "tempor",
+    "modulus": 99,
+    "params": 68,
+    "publicKey": "ac"
+  },
+  "serialNumber": 98,
+  "serialNumberObject": {
+    "serialNumber": 65
+  },
+  "sigAlgName": "tempor",
+  "sigAlgOID": "molestie",
+  "subjectAlternativeNames": [
+    {
+      "name": "Alfred",
+      "type": 66
+    }
+  ],
+  "subjectDN": {
+    "commonName": "aliquam",
+    "name": "Alayna"
+  },
+  "subjectX500Principal": {
+    "name": "Albertina"
+  },
+  "type": "Nunc",
+  "version": 62
+}

@@ -1,0 +1,72 @@
+{
+  "basicConstraints": 7,
+  "criticalExtensionOIDs": [
+    "nunc",
+    "faucibus",
+    "molestie"
+  ],
+  "extendedKeyUsage": [
+    "nunc",
+    "ut"
+  ],
+  "extensions": [
+    {
+      "criticality": false,
+      "oid": "ut"
+    }
+  ],
+  "issuerAlternativeNames": [
+    {
+      "name": "Andrea",
+      "type": 14
+    }
+  ],
+  "issuerDN": {
+    "commonName": "Nam",
+    "name": "Cedrick"
+  },
+  "issuerUniqueID": [
+    true,
+    true,
+    false
+  ],
+  "issuerX500Principal": {
+    "name": "Corey"
+  },
+  "keyUsage": [
+    true,
+    false
+  ],
+  "name": "Alyse",
+  "nonCriticalExtensionOIDs": [
+    "dui",
+    "nibh"
+  ],
+  "publicKey": {
+    "algorithm": "pretium",
+    "modulus": 26,
+    "params": 31,
+    "publicKey": "Fusce"
+  },
+  "serialNumber": 27,
+  "serialNumberObject": {
+    "serialNumber": 46
+  },
+  "sigAlgName": "elit",
+  "sigAlgOID": "ipsum",
+  "subjectAlternativeNames": [
+    {
+      "name": "Aleisha",
+      "type": 56
+    }
+  ],
+  "subjectDN": {
+    "commonName": "tempor",
+    "name": "Dan"
+  },
+  "subjectX500Principal": {
+    "name": "Alphonso"
+  },
+  "type": "Nam",
+  "version": 97
+}
